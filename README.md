@@ -83,7 +83,7 @@ patito_legal_ai/
 > Copiá `.env.example` a `.env` y completá tu `GOOGLE_API_KEY`
 > (gratis en https://aistudio.google.com/apikey). Ver sección 4 más abajo.
 ## 4. Instalación y ejecución
-
+EJECUTAR TODO ESTE PROCESO EN LA TERMINAL.
 ```bash
 # 1. Clonar / entrar al proyecto
 cd patito_legal_ai
