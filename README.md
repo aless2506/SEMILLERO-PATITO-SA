@@ -13,6 +13,7 @@ una mesa de ayuda con agentes LangChain especializados que responden preguntas l
 usando RAG sobre una base documental ficticia, más un agente orquestador y un agente de acción.
 
 > Las respuestas del sistema son **orientativas** y no sustituyen la asesoría de un abogado.
+
 ENLACE DE VIDEO:https://drive.google.com/file/d/19OsXsYbOOGZChD3BrCUTQhhPd-fggp11/view?usp=sharing
 ## 1. Arquitectura
 
