@@ -254,7 +254,7 @@ código contiene la key hardcodeada.
   agotada. Los modelos "Flash" completos (`gemini-3.5-flash`) tienen cuotas gratuitas ajustadas;
   `gemini-3.1-flash-lite` suele tener una cuota diaria bastante más generosa. La cuota (RPD)
   resetea a medianoche hora del Pacífico de EE. UU.
-- **Recordá:** cada pregunta mixta invoca al orquestador + varios agentes, cada uno con su propio
+- **Recuerda:** cada pregunta mixta invoca al orquestador + varios agentes, cada uno con su propio
   tool-calling — eso son varias llamadas al LLM por pregunta, no una sola. Tenelo en cuenta al
   estimar cuántas preguntas podés hacer con tu cuota diaria.
 
