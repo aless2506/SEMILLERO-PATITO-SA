@@ -1,0 +1,35 @@
+PATITO S.A.
+POLÍTICA DE PROTECCIÓN DE DATOS PERSONALES
+(Documento ficticio para fines de evaluación del semillero)
+Base de conocimiento del Agente de Protección de Datos
+
+1. PRINCIPIOS
+Licitud, finalidad, proporcionalidad, transparencia, calidad y seguridad de los datos.
+
+2. BASES PARA EL TRATAMIENTO
+Consentimiento del titular, ejecución de un contrato, obligación legal o interés legítimo.
+
+3. DERECHOS DE LOS TITULARES
+Acceso, rectificación, cancelación/eliminación, oposición y portabilidad. Las solicitudes se
+atienden en un plazo máximo de 15 días hábiles.
+
+4. RETENCIÓN Y ELIMINACIÓN DE DATOS
+- Los datos de clientes se conservan mientras exista la relación comercial.
+- Tras la cancelación de la cuenta de un cliente, los datos se conservan por 5 años para
+  cumplir obligaciones contables, fiscales y legales; cumplido ese plazo se eliminan o
+  anonimizan de forma segura.
+- Los datos usados solo para marketing se eliminan cuando el titular retira su consentimiento.
+- No se conservan datos por más tiempo del necesario para su finalidad u obligación legal.
+
+5. SEGURIDAD
+Se aplican controles de acceso, cifrado y respaldo. El acceso a datos personales se limita al
+personal autorizado.
+
+6. ENCARGADOS DE TRATAMIENTO (PROVEEDORES)
+Cuando un proveedor trata datos personales por cuenta de Patito S.A., debe firmarse una
+cláusula o acuerdo de tratamiento de datos que regule finalidad, seguridad y devolución o
+eliminación de los datos al terminar el servicio.
+
+7. BRECHAS DE SEGURIDAD
+Toda sospecha de brecha se reporta de inmediato al área Legal y a TI para su evaluación y
+notificación cuando corresponda.

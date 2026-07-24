@@ -1,0 +1,34 @@
+PATITO S.A.
+MANUAL DE CLÁUSULAS CONTRACTUALES ESTÁNDAR
+(Documento ficticio para fines de evaluación del semillero)
+Base de conocimiento del Agente de Contratos
+
+1. TIPOS DE CONTRATO MÁS USADOS
+Prestación de servicios, compraventa/suministro, confidencialidad (NDA) y laboral.
+
+2. CLÁUSULAS MÍNIMAS DE UN CONTRATO DE PRESTACIÓN DE SERVICIOS
+Todo contrato de prestación de servicios con un proveedor debe contener al menos:
+- Identificación de las partes (datos completos del contratante y del proveedor).
+- Objeto del contrato (descripción clara del servicio).
+- Alcance y entregables.
+- Plazo o vigencia y condiciones de renovación.
+- Precio, forma y condiciones de pago.
+- Obligaciones y responsabilidades de cada parte.
+- Cláusula de confidencialidad.
+- Cláusula de protección de datos personales (cuando el proveedor trate datos).
+- Propiedad intelectual sobre los entregables.
+- Niveles de servicio o estándares de calidad (cuando aplique).
+- Responsabilidad e indemnización.
+- Causales de terminación y consecuencias.
+- Resolución de controversias y ley aplicable / jurisdicción.
+
+3. PROCESO DE REVISIÓN Y FIRMA
+3.1 Solicitud al área Legal con la información del proveedor y del servicio.
+3.2 Revisión legal y ajustes de cláusulas.
+3.3 Aprobación del área solicitante y del presupuesto.
+3.4 Firma por los representantes autorizados de ambas partes.
+3.5 Archivo del contrato firmado en el repositorio legal.
+
+4. RECOMENDACIONES
+No iniciar la prestación del servicio sin contrato firmado. Cualquier modificación se formaliza
+mediante adenda escrita.
