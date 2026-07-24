@@ -78,7 +78,9 @@ patito_legal_ai/
 
 - Python 3.10+
 - Una API Key de Google Gemini gratuita: https://aistudio.google.com/apikey
-
+>  **Antes de ejecutar:** este proyecto necesita tu propia API Key de Google Gemini.
+> Copiá `.env.example` a `.env` y completá tu `GOOGLE_API_KEY`
+> (gratis en https://aistudio.google.com/apikey). Ver sección 4 más abajo.
 ## 4. Instalación y ejecución
 
 ```bash
